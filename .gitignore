@@ -1,0 +1,11 @@
+build/
+external/
+dist/
+out/
+.vs/
+.vscode/
+*.vst3
+*.zip
+*.exe
+*.pdb
+CMakeUserPresets.json
